@@ -20,4 +20,4 @@ You can install the development version from GitHub using:
 
 ```r
 install.packages("remotes")
-remotes::install_github("YOUR_GITHUB_USERNAME/m6APrediction")
+remotes::install_github("JiahanZhang-xjtlu/m6APrediction")
