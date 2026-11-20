@@ -4,9 +4,9 @@ Version: 1.0.0
 Authors@R: 
     person("Jiahan", "Zhang", , "Jiahan.Zhang24@student.xjtlu.edu.cn", role = c("aut", "cre"))
 Description: Provides functions to predict m6A sites from sequence and genomic features using a fitted random forest model..
-Depends: R (>= 3.5.0)
+Depends: R (>= 3.5.0), randomForest
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.3
-Imports: randomForest, stats
+Imports: stats
