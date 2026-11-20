@@ -107,6 +107,7 @@ log2-transformed format as the model training data.
 
 The following figure shows the model performance on the evaluation data. The left panel shows the receiver operating characteristic (ROC) curve, and the right panel shows the precision-recall curve. The evaluation data contained 2,273 positive observations and 7,338
 negative observations.
+![ROC and precision-recall curves](figures/model_performance.png)
 
 ## Model resources
 
